@@ -1,6 +1,5 @@
 """
 Bili_Ticket_Monitor
-原项目地址：https://github.com/TaiMiao/Bili_Ticket_Monitor
 """
 
 import time
